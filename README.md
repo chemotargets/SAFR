@@ -13,7 +13,7 @@ The analysis is organized into two primary phases: methodological validation aga
 
 This repository is complementary to the following publication:
 
-> Joan Cabot-March, Xavier Jalencas, and Jordi Mestres. **SAFR: Enabling Fragment-Based Drug Discovery with a Synthetic Binding Pose Dataset.** *TO BE PUBLISHED.* 2026.
+> Joan Cabot-March, Xavier Jalencas, and Jordi Mestres. **SAFR: Enabling Fragment-Based Drug Discovery with a Synthetic Binding Pose Dataset.** *(https://doi.org/10.1021/acs.jcim.6c00217)* 2026.
 
 ## Data Availability
 
